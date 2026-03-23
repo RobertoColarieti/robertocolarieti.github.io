@@ -16,7 +16,7 @@ I hold a B.Sc. and M.Sc. in Economics from Bocconi University. You can find my C
 **Optimal Government Debt in an Open Economy**  
 Roberto Colarieti  
 May 2025  
-<a href="{{ '/files/optimal-debt.pdf' | relative_url }}" target="_blank">PDF</a>
+<a href="{{ '/files/optimal-debt.pdf' | relative_url }}" download>PDF</a>
 
 **The How and Why of Household Reactions to Income Shocks**  
 Roberto Colarieti, Pierfrancesco Mei, Stefanie Stantcheva  
