@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "CV"
-    url: "{{ '/files/cv.pdf' | relative_url }}"
+    url: /files/cv.pdf
     
     
  
