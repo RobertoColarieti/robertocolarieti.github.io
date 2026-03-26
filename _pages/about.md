@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at Harvard University. My research interests are in macroeconomics and international macroeconomics, with a focus on heterogeneous agents, fiscal and monetary policy, and government debt.
 
-I hold a B.Sc. and M.Sc. in Economics from Bocconi University. You can find my CV [here](/cv/).
+I hold a B.Sc. and M.Sc. in Economics from Bocconi University. You can find my CV <a href="{{ '/files/cv.pdf' | relative_url }}" download>[here]</a>.
 
 ## Working Papers
 
