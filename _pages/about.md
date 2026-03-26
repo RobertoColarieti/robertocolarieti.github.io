@@ -21,14 +21,14 @@ May 2025
 **The How and Why of Household Reactions to Income Shocks**  
 Roberto Colarieti, Pierfrancesco Mei, Stefanie Stantcheva  
 March 2025  
-<a href="https://www.nber.org/papers/w32191" target="_blank">PDF</a>
+<a href="{{ '/files/Colarieti_Mei_Stantcheva.pdf' | relative_url }}" download>PDF</a>, <a href="{{ '/files/FP_appendix_v14.pdf' | relative_url }}" download>Online Appendix</a>
 
 **Aggregate Fluctuations with Incomplete Information and Heterogeneous Risk**  
 Tommaso Monacelli, Roberto Colarieti  
 November 2023  
-[PDF](#)
+<a href="{{ '/files/Heterosk_incomplete.pdf' | relative_url }}" download>PDF</a>
 
 **H-HANK: A Heteroskedastic Heterogeneous-Agent New Keynesian Model**  
 Roberto Colarieti, Tommaso Monacelli  
 November 2023  
-[PDF](#)
+<a href="{{ '/files/HHANK.pdf' | relative_url }}" download>PDF</a>
