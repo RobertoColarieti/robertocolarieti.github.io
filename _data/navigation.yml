@@ -9,10 +9,10 @@
 
 main:
   - title: "Home"
-    url: /    
-    
+    url: /
+
   - title: "CV"
-    url: /cv/
+    url: "{{ '/files/cv.pdf' | relative_url }}"
     
     
  
